@@ -2,6 +2,7 @@ USE [AdventureWorks2019]
 GO
 
 /****** Object:  Table [Person].[Person]    Script Date: 6/26/2023 10:21:44 AM ******/
+	/****Revised code ***/
 SET ANSI_NULLS ON
 GO
 
