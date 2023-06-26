@@ -2,6 +2,7 @@ USE [AdventureWorks2019]
 GO
 
 /****** Object:  StoredProcedure [dbo].[uspGetEmployeeManagers]    Script Date: 6/25/2023 10:36:19 PM ******/
+	/*****update the sp as 2nd edition*****/
 SET ANSI_NULLS ON
 GO
 
